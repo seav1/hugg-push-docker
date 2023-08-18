@@ -1,3 +1,15 @@
+---
+title: Wqeee
+emoji: 📉
+colorFrom: pink
+colorTo: blue
+sdk: docker
+pinned: false
+license: openrail
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
 # X for Huggingface
 
 还有一个路径写法也是和codesandbox一样，默认的我设的是/qwertvm?ed=2048   自己可能在参数里定义一下       VMESS_WSPATH  要/
